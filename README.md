@@ -1,0 +1,1 @@
+The project aims to develop a comprehensive food recipe and delivery website using HTML, CSS, and JavaScript. This website will provide users with an extensive collection of recipes, allow them to order ingredients, and offer a seamless, responsive, and interactive user experience.
